@@ -1,0 +1,11 @@
+C:\Users\hamin\source\repos\EmployeeService\EmployeeService\bin\EmployeeService.dll.config
+C:\Users\hamin\source\repos\EmployeeService\EmployeeService\bin\EmployeeService.dll
+C:\Users\hamin\source\repos\EmployeeService\EmployeeService\bin\EmployeeService.pdb
+C:\Users\hamin\source\repos\EmployeeService\EmployeeService\bin\EntityFramework.dll
+C:\Users\hamin\source\repos\EmployeeService\EmployeeService\bin\EntityFramework.SqlServer.dll
+C:\Users\hamin\source\repos\EmployeeService\EmployeeService\bin\EntityFramework.xml
+C:\Users\hamin\source\repos\EmployeeService\EmployeeService\bin\EntityFramework.SqlServer.xml
+C:\Users\hamin\source\repos\EmployeeService\EmployeeService\obj\Debug\EmployeeService.csproj.CoreCompileInputs.cache
+C:\Users\hamin\source\repos\EmployeeService\EmployeeService\obj\Debug\EmployeeService.csproj.CopyComplete
+C:\Users\hamin\source\repos\EmployeeService\EmployeeService\obj\Debug\EmployeeService.dll
+C:\Users\hamin\source\repos\EmployeeService\EmployeeService\obj\Debug\EmployeeService.pdb
